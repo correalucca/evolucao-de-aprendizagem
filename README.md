@@ -2,4 +2,4 @@
 
 Evolução de Aprendizagem
 
-- em construção...
+:white_check_mark: Módulo 2
